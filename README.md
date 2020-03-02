@@ -1,3 +1,6 @@
+# Keyscreen
+Demo for assembly summer 2019 real wild compo 3rd place
+
 To run this demo you need a linux machine (tested on ubuntu 16.04) and a logitech G810 keyboard with nordic layout.
 (It will probably run on other logitech keyboards supported by keyleds as well, but then the config file needs to be changed for a different layout)
 
